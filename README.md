@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m an ECE student with a passion for Computer Science. I’ve developed expertise in AI and Machine Learning, with skills in TensorFlow, Python, and
+👋 Hi there! I’m an ECE student passionate about Computer Science, with expertise in AI and Machine Learning, and skills in TensorFlow and Python.
 
 
 ## 🌐 Socials:
